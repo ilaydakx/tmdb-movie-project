@@ -1,0 +1,11 @@
+model,RMSE,R2,RMSE_$M,MAE_$M
+LightGBM Reg       (Track A),1.581,0.3795,99.0716,49.1396
+RandomForest Reg   (Track A),1.6042,0.3612,86.1441,45.7356
+XGBoost Reg        (Track A),1.6167,0.3511,116.0949,55.2551
+LightGBM Tuned     (Track A),1.6242,0.3451,79.5522,42.187
+RandomForest Reg   (Track B),1.6453,0.328,,
+XGBoost Reg        (Track B),1.6453,0.328,,
+LightGBM Reg       (Track B),1.6461,0.3274,,
+LinearRegression  (Track A),1.6774,0.3016,111.9473,52.1016
+LinearRegression  (Track B),1.7556,0.2349,,
+Dummy (mean),2.0072,-0.0002,,

@@ -1,0 +1,4 @@
+studio_type,movie_count,avg_budget_musd,avg_predicted_revenue_musd,avg_actual_revenue_musd,hit_rate_pct
+Major Studio,1593,57.37,159.48,185.72,64.9
+Independent,97,4.17,22.36,5.33,0.0
+Mid-size Studio,2218,23.38,49.83,63.89,29.4

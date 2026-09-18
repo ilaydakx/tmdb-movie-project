@@ -1,0 +1,11 @@
+model,Accuracy,F1,AUC
+XGBoost Cls        (Track A),0.8657,0.8367,0.9363
+XGBoost Tuned      (Track A),0.8645,0.8369,0.9344
+LightGBM Cls       (Track A),0.8657,0.8397,0.9327
+RandomForest Cls   (Track A),0.8593,0.8292,0.9313
+LogisticRegression (Track A),0.8529,0.8265,0.9309
+RandomForest Cls   (Track B),0.8056,0.7654,0.8838
+XGBoost Cls        (Track B),0.8056,0.7654,0.8805
+LightGBM Cls       (Track B),0.7903,0.7523,0.8738
+LogisticRegression (Track B),0.7967,0.7558,0.8703
+Dummy (most_frequent),0.5678,0.0,
